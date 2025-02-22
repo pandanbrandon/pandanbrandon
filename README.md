@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋
 
-<!--
-**pandanbrandon/pandanbrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+you already know 😎
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- JavaScript & Python
+
+## 📈 GitHub Stats
+
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandanbrandon&show_icons=true&theme=radical)
+
+## 📣 Socials
+
+- **Links:** [@yourtwitterhandle](https://beacons.ai/pandanbrandon)
+
+## 💡 Projects
+
+Here are some of the projects I'm currently working on:
+
+1. **[Project Name](https://github.com/pandanbrandon/learningJSfrrr)** - Brief description of the project.
