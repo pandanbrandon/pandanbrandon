@@ -4,7 +4,7 @@ you already know 😎
 
 
 ## 🌱 Currently Learning
-- JavaScript & Python
+- JavaScript, Python, SQL
 
 ## 💡 Projects
 Here are some of the projects I'm currently working on:
