@@ -1,6 +1,5 @@
 # Hi, I'm Brandon 👋
-
-you already know 😎
+...
 
 
 ## 🌱 Currently Learning
@@ -9,8 +8,8 @@ you already know 😎
 ## 💡 Projects
 Here are some of the projects I'm currently working on:
 
-1. **[JS Basics](https://github.com/pandanbrandon/learningJSfrrr)** - getting down js fundamentals
-   - Check out the site lol: https://thisisanhtmlpage-ya-herd.vercel.app/
+1. **[Kin Clash](https://github.com/pandanbrandon/kin-clash))** - making family feud
+   - What I got so far... https://kin-clash.vercel.app/
 
 
 
