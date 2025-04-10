@@ -8,7 +8,7 @@
 ## 💡 Projects
 Here are some of the projects I'm currently working on:
 
-1. **[Kin Clash](https://github.com/pandanbrandon/kin-clash))** - making family feud
+1. **[Kin Clash](https://github.com/pandanbrandon/kin-clash)** - making family feud
    - What I got so far... https://kin-clash.vercel.app/
 
 
