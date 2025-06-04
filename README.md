@@ -3,7 +3,7 @@
 
 
 ## 🌱 Currently Learning
-- JavaScript, Python, SQL
+- JavaScript, React, Python, SQL
 
 ## 💡 Projects
 Here are some of the projects I'm currently working on:
