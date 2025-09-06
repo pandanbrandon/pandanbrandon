@@ -1,17 +1,13 @@
 # Hi, I'm Brandon 👋
-...
-
 
 ## 🌱 Currently Learning
-- JavaScript, React, Python, SQL
+- Cloud (AWS), Terraform, Docker, Python
 
 ## 💡 Projects
 Here are some of the projects I'm currently working on:
 
-1. **[Kin Clash](https://github.com/pandanbrandon/kin-clash)** - making family feud
-   - What I got so far... https://kin-clash.vercel.app/
-
-
+1. **KAMI Cafe** - sandbox 'small business' lab, simulates core infrastructure
+  - in progress...
 
 ## 📣 Socials
 
