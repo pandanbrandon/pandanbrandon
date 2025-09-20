@@ -1,7 +1,7 @@
 # Hi, I'm Brandon 👋
 
 ## 🌱 Currently Learning
-- Cloud (AWS), Terraform, Docker, Python
+- Cloud (AWS), Terraform, Ansible, Docker, Python
 
 ## 💡 Projects
 Here are some of the projects I'm currently working on:
